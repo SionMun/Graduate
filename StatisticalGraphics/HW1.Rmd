@@ -1,6 +1,6 @@
 ---
 title: "통계그래픽스_HW1"
-author: "182STG06 문시온"
+author: "Sion Mun"
 date: "2019년 3월 11일"
 output: word_document
 ---
